@@ -1,0 +1,2 @@
+# ZZDownloadManager
+使用原生的NSURLSession封装了一个下载类，实现了断点下载、监听下载进度等功能
